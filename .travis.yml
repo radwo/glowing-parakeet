@@ -1,0 +1,4 @@
+language: ruby
+
+install:
+  - echo '<img src="https://orig11.deviantart.net/4118/f/2008/182/a/b/its_not_a_bug_its_a_feature_by_forester_joe.jpg">'
